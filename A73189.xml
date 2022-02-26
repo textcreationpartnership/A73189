@@ -1,0 +1,267 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A most delicate, pleasant, amorous, new song made by a gentleman that enioyes his loue, shewing the worth and happinesse of content, and the effects of loue, called, All louers ioy. To the tune of New paradise.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1625</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73189</idno>
+            <idno type="STC">STC 22919.2</idno>
+            <idno type="STC">ESTC S124613</idno>
+            <idno type="EEBO-CITATION">99899076</idno>
+            <idno type="PROQUEST">99899076</idno>
+            <idno type="VID">150758</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73189)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150758)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1978:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A most delicate, pleasant, amorous, new song made by a gentleman that enioyes his loue, shewing the worth and happinesse of content, and the effects of loue, called, All louers ioy. To the tune of New paradise.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>[by G. Purslowe] for H. G[osson].,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>[ca. 1625]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's and publisher's names and date of publication from STC.</note>
+                  <note>Verse - "Sing, O sing, the day is cleare.".</note>
+                  <note>In two parts, printed side by side.</note>
+                  <note>Reproduction of original in the Pepysian Library, Magdalene College, Cambridge, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Contentment --  Poetry --  Early works to 1800.</term>
+               <term>Love poetry --  Early works to 1800.</term>
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:150758:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <head>A moſt delicate, pleaſant, amorous, new Song, made by a Gentleman that enioyes his Loue, ſhewing the worth and happi<g ref="char:EOLhyphen"/>neſſe of Content, and the effects of loue, calle, <hi>All louers Ioy.</hi>
+            </head>
+            <opener>To the tune of <hi>New Paradiſe.</hi>
+            </opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>SIng, O ſing, the day is cleare.</l>
+                  <l>ſad miſfortunes are eſtranged,</l>
+                  <l>Kinder Planets rule the Spheare,</l>
+                  <l>what was ill, to good is changed:</l>
+                  <l>My more froward hope remoue,</l>
+                  <l>And I now liue where I loue.</l>
+               </lg>
+               <lg>
+                  <l>No more ioy to man can happen,</l>
+                  <l>then a creature ſo diuine,</l>
+                  <l>As my loue, Each part is ſhapen</l>
+                  <l>like to <hi>Venus</hi> in her prime,</l>
+                  <l>No delight ſo true doth proue,</l>
+                  <l>As the ſweet contents of loue.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Cynthya,</hi> when ſhe kiſt <hi>Endimion,</hi>
+                  </l>
+                  <l>vpon towering <hi>Latmos</hi> mount,</l>
+                  <l>By each free and wiſe opinion,</l>
+                  <l>was not of ſo deare account.</l>
+                  <l>In no age was knowne to moue,</l>
+                  <l>Fairer then my faireſt Loue.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Hellen</hi> in thoſe wrinckled dayes,</l>
+                  <l>was accounted beauties mirrour,</l>
+                  <l>My ſweet Ladies gliſtering rayes,</l>
+                  <l>now approue that Ages errour.</l>
+                  <l>
+                     <hi>Hellen</hi> far her ſelfe's aboue,</l>
+                  <l>Neuer liu'd a fairer Loue.</l>
+               </lg>
+               <lg>
+                  <l>Had <hi>Paris,</hi> when from <hi>Troy</hi> he parted,</l>
+                  <l>ſeene in <hi>Ida</hi> my rich Fleece,</l>
+                  <l>
+                     <hi>Spartas</hi> Queene had not oreſtarted,</l>
+                  <l>neither her true Lord nor <hi>Greece.</hi>
+                  </l>
+                  <l>
+                     <hi>Paris</hi> ne're had croſt the flood,</l>
+                  <l>To this day faire <hi>Troy</hi> had ſtood.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Iaſon</hi> left his natiue <hi>Greece,</hi>
+                  </l>
+                  <l>and vnto <hi>Cholchis</hi> toyling went,</l>
+                  <l>At his returne, his Golden Fleece</l>
+                  <l>equal'd not this ornament:</l>
+                  <l>Ancient Authors doe approue</l>
+                  <l>Mine the Queene of trueſt loue,</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <head>The Second Part.</head>
+               <opener>To the ſame Tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>PRincely <hi>Theſeus</hi> neuer knew,</l>
+                  <l>nor the wandring Prince of <hi>Troy,</hi>
+                  </l>
+                  <l>A beauty ſo diuine and true,</l>
+                  <l>all their times could not enioy.</l>
+                  <l>All their fortunes mine is aboue,</l>
+                  <l>To enioy ſo true a Loue.</l>
+               </lg>
+               <lg>
+                  <l>Happier I then tongue can vtter,</l>
+                  <l>to poſſeſſe ſo faire a Faire,</l>
+                  <l>Euery ſenſe for ioy doth mutter,</l>
+                  <l>to my ioyes none can compare:</l>
+                  <l>Sweeter pleaſures cannot moue,</l>
+                  <l>Then to liue where one doth loue.</l>
+               </lg>
+               <lg>
+                  <l>Powerfull loue, the worlds knight mar<g ref="char:EOLhyphen"/>ſhall,</l>
+                  <l>I will ſacrifice to thee,</l>
+                  <l>My true honours ſhall be vnpartiall,</l>
+                  <l>that thou ſhalt-receiue from me.</l>
+                  <l>All the gods thou art aboue,</l>
+                  <l>Let me ſtill liue where I loue.</l>
+               </lg>
+               <lg>
+                  <l>None doth win a happier prize</l>
+                  <l>the content (in mine opinion)</l>
+                  <l>All the conſurers of the wiſe,</l>
+                  <l>grant it is the beſt dominion:</l>
+                  <l>For the wiſeſt doth approue,</l>
+                  <l>Kings can but liue where they loue.</l>
+               </lg>
+               <lg>
+                  <l>Silly Swaines that pipe on bankes,</l>
+                  <l>(turn'd poore Shepheards for their liuing</l>
+                  <l>Giue to loue as many thankes,</l>
+                  <l>as in Court great Lords are giuing.</l>
+                  <l>Truſt, content doth euer moue,</l>
+                  <l>In that place where reſteth loue.</l>
+               </lg>
+               <lg>
+                  <l>Strangeſt god of <hi>Homers</hi> number,</l>
+                  <l>I will euer thee adore.</l>
+                  <l>Thou art onely earths great wonder</l>
+                  <l>
+                     <hi>Cupid,</hi> I they aide implore.</l>
+                  <l>As to ſerue thee ſtil I ſtroue,</l>
+                  <l>Grant me ſtill life where I loue.</l>
+               </lg>
+               <lg>
+                  <l>Pleaſure now ſuch ſcope poſſeſſeth,</l>
+                  <l>all my ioy is in the prime,</l>
+                  <l>No ſad thought my mind opreſſeth,</l>
+                  <l>comfort is ſo truely mine.</l>
+                  <l>All delights doe in me moue,</l>
+                  <l>Becauſe I liue where I loue.</l>
+               </lg>
+               <lg>
+                  <l>Come, O come and ſing with me,</l>
+                  <l>at my Feaſts and Banquetings</l>
+                  <l>Louers all, that ſpeeders be,</l>
+                  <l>come reioyce like petty kings:</l>
+                  <l>All our ſongs ſhall ſtill approue,</l>
+                  <l>All content doth liue with loue.</l>
+               </lg>
+            </div>
+            <trailer>Finis.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London for H. G.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
